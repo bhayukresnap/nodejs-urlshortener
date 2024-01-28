@@ -1,0 +1,50 @@
+extends layouts/_layout.pug
+
+block content
+    div.d-flex.align-items-center.justify-content-center.vh-100
+        div.text-center.w-50
+            h1.h2.text-white.my-3
+                b URL Shortener
+            h2.h5.text-white bhayukresnap
+            form(action="/api/shortener", method="POST", class="my-4", id="shorten")
+                div.input-group
+                    input(type="text" class="form-control p-3" name="url")
+                    button.input-group-text.btn.btn-primary SHORTEN
+            div#result.text-center
+
+
+block script
+    script.
+        const formShorten = document.getElementById('shorten');
+        const resultShorten = document.getElementById('result');
+        const loading = document.getElementById('loading');
+        formShorten.addEventListener('submit', async (e) => {
+            const bodyRequest = {
+                value: document.querySelector('input[name="url"]').value
+            };
+            e.preventDefault();
+            //- loading.classList.remove('d-none');
+            try{
+                const response = await fetch(formShorten.action, {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json",
+                    },
+                    body: JSON.stringify(bodyRequest)
+                })
+                const result = await response.json();
+
+                if(!response.ok){
+                    console.log("Something went wrong!")
+                }
+                if(response.status == 200){
+                    resultShorten.innerHTML = `<a href="${window.location.href + result.message.id}" target="_blank">${window.location.href + result.message.id}</a>`
+                }else{
+                    resultShorten.innerHTML = result.errors.map(error => {
+                        return error.msg
+                    })
+                }
+            }catch(error){
+                console.log(error)
+            }
+        });

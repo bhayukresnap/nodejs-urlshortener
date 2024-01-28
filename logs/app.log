@@ -1,0 +1,916 @@
+[20:09:11.292] [32mINFO[39m (24060):
+    request: {
+      "value": "123123"
+    }
+    response: {
+      "id": 3,
+      "url": "123123",
+      "updatedAt": "2024-01-28T13:09:11.284Z",
+      "createdAt": "2024-01-28T13:09:11.284Z"
+    }
+[20:09:13.137] [32mINFO[39m (24060):
+    request: {
+      "value": "123123"
+    }
+    response: {
+      "id": 3,
+      "url": "123123",
+      "createdAt": "2024-01-28T13:09:11.284Z",
+      "updatedAt": "2024-01-28T13:09:11.284Z"
+    }
+[20:09:14.391] [32mINFO[39m (24060):
+    request: {
+      "value": "123123"
+    }
+    response: {
+      "id": 3,
+      "url": "123123",
+      "createdAt": "2024-01-28T13:09:11.284Z",
+      "updatedAt": "2024-01-28T13:09:11.284Z"
+    }
+[20:09:15.120] [32mINFO[39m (24060):
+    request: {
+      "value": "123123"
+    }
+    response: {
+      "id": 3,
+      "url": "123123",
+      "createdAt": "2024-01-28T13:09:11.284Z",
+      "updatedAt": "2024-01-28T13:09:11.284Z"
+    }
+[20:09:15.659] [32mINFO[39m (24060):
+    request: {
+      "value": "123123"
+    }
+    response: {
+      "id": 3,
+      "url": "123123",
+      "createdAt": "2024-01-28T13:09:11.284Z",
+      "updatedAt": "2024-01-28T13:09:11.284Z"
+    }
+[20:09:22.976] [32mINFO[39m (24060):
+    request: {
+      "value": "123123"
+    }
+    response: {
+      "id": 3,
+      "url": "123123",
+      "createdAt": "2024-01-28T13:09:11.284Z",
+      "updatedAt": "2024-01-28T13:09:11.284Z"
+    }
+[20:15:04.939] [31mERROR[39m (18012):
+    request: {}
+    errors: [
+      {
+        "type": "field",
+        "msg": "Value must be String!",
+        "path": "value",
+        "location": "body"
+      }
+    ]
+[20:16:19.548] [31mERROR[39m (18012):
+    request: {}
+    errors: [
+      {
+        "type": "field",
+        "msg": "Value must be String!",
+        "path": "value",
+        "location": "body"
+      }
+    ]
+[20:16:44.624] [31mERROR[39m (18012):
+    request: {}
+    errors: [
+      {
+        "type": "field",
+        "msg": "Value must be String!",
+        "path": "value",
+        "location": "body"
+      }
+    ]
+[20:18:24.051] [32mINFO[39m (18012):
+    request: {
+      "value": "123"
+    }
+    response: {
+      "id": 4,
+      "url": "123",
+      "updatedAt": "2024-01-28T13:18:24.043Z",
+      "createdAt": "2024-01-28T13:18:24.043Z"
+    }
+[20:18:41.311] [32mINFO[39m (18012):
+    request: {
+      "value": "123"
+    }
+    response: {
+      "id": 4,
+      "url": "123",
+      "createdAt": "2024-01-28T13:18:24.043Z",
+      "updatedAt": "2024-01-28T13:18:24.043Z"
+    }
+[20:19:46.963] [32mINFO[39m (18012):
+    request: {
+      "value": "123"
+    }
+    response: {
+      "id": 4,
+      "url": "123",
+      "createdAt": "2024-01-28T13:18:24.043Z",
+      "updatedAt": "2024-01-28T13:18:24.043Z"
+    }
+[20:21:18.464] [32mINFO[39m (18012):
+    request: {
+      "value": "123"
+    }
+    response: {
+      "id": 4,
+      "url": "123",
+      "createdAt": "2024-01-28T13:18:24.043Z",
+      "updatedAt": "2024-01-28T13:18:24.043Z"
+    }
+[20:21:21.781] [32mINFO[39m (18012):
+    request: {
+      "value": "123"
+    }
+    response: {
+      "id": 4,
+      "url": "123",
+      "createdAt": "2024-01-28T13:18:24.043Z",
+      "updatedAt": "2024-01-28T13:18:24.043Z"
+    }
+[20:21:56.324] [32mINFO[39m (18012):
+    request: {
+      "value": "123"
+    }
+    response: {
+      "id": 4,
+      "url": "123",
+      "createdAt": "2024-01-28T13:18:24.043Z",
+      "updatedAt": "2024-01-28T13:18:24.043Z"
+    }
+[20:22:23.878] [32mINFO[39m (18012):
+    request: {
+      "value": "123"
+    }
+    response: {
+      "id": 4,
+      "url": "123",
+      "createdAt": "2024-01-28T13:18:24.043Z",
+      "updatedAt": "2024-01-28T13:18:24.043Z"
+    }
+[20:22:25.652] [32mINFO[39m (18012):
+    request: {
+      "value": "123"
+    }
+    response: {
+      "id": 4,
+      "url": "123",
+      "createdAt": "2024-01-28T13:18:24.043Z",
+      "updatedAt": "2024-01-28T13:18:24.043Z"
+    }
+[20:23:04.484] [32mINFO[39m (18012):
+    request: {
+      "value": "123"
+    }
+    response: {
+      "id": 4,
+      "url": "123",
+      "createdAt": "2024-01-28T13:18:24.043Z",
+      "updatedAt": "2024-01-28T13:18:24.043Z"
+    }
+[20:23:42.463] [32mINFO[39m (18012):
+    request: {
+      "value": "123"
+    }
+    response: {
+      "id": 4,
+      "url": "123",
+      "createdAt": "2024-01-28T13:18:24.043Z",
+      "updatedAt": "2024-01-28T13:18:24.043Z"
+    }
+[20:23:51.471] [32mINFO[39m (18012):
+    request: {
+      "value": "123"
+    }
+    response: {
+      "id": 4,
+      "url": "123",
+      "createdAt": "2024-01-28T13:18:24.043Z",
+      "updatedAt": "2024-01-28T13:18:24.043Z"
+    }
+[20:26:10.848] [31mERROR[39m (10488):
+    request: {
+      "value": "1231234"
+    }
+    errors: [
+      {
+        "type": "field",
+        "msg": "Invalid value",
+        "path": "url",
+        "location": "body"
+      },
+      {
+        "type": "field",
+        "msg": "Invalid URL",
+        "path": "url",
+        "location": "body"
+      }
+    ]
+[20:26:25.034] [31mERROR[39m (10488):
+    request: {}
+    errors: [
+      {
+        "type": "field",
+        "msg": "Invalid value",
+        "path": "url",
+        "location": "body"
+      },
+      {
+        "type": "field",
+        "msg": "Invalid URL",
+        "path": "url",
+        "location": "body"
+      },
+      {
+        "type": "field",
+        "msg": "Value must be String!",
+        "path": "value",
+        "location": "body"
+      }
+    ]
+[20:26:29.710] [31mERROR[39m (10488):
+    request: {
+      "value": "1231234"
+    }
+    errors: [
+      {
+        "type": "field",
+        "msg": "Invalid value",
+        "path": "url",
+        "location": "body"
+      },
+      {
+        "type": "field",
+        "msg": "Invalid URL",
+        "path": "url",
+        "location": "body"
+      }
+    ]
+[20:26:34.633] [31mERROR[39m (10488):
+    request: {
+      "value": "https:"
+    }
+    errors: [
+      {
+        "type": "field",
+        "msg": "Invalid value",
+        "path": "url",
+        "location": "body"
+      },
+      {
+        "type": "field",
+        "msg": "Invalid URL",
+        "path": "url",
+        "location": "body"
+      }
+    ]
+[20:26:38.848] [31mERROR[39m (10488):
+    request: {
+      "value": "https://"
+    }
+    errors: [
+      {
+        "type": "field",
+        "msg": "Invalid value",
+        "path": "url",
+        "location": "body"
+      },
+      {
+        "type": "field",
+        "msg": "Invalid URL",
+        "path": "url",
+        "location": "body"
+      }
+    ]
+[20:26:44.022] [31mERROR[39m (10488):
+    request: {
+      "value": "https://www.google.com"
+    }
+    errors: [
+      {
+        "type": "field",
+        "msg": "Invalid value",
+        "path": "url",
+        "location": "body"
+      },
+      {
+        "type": "field",
+        "msg": "Invalid URL",
+        "path": "url",
+        "location": "body"
+      }
+    ]
+[20:26:53.315] [31mERROR[39m (6960):
+    request: {
+      "value": "https://"
+    }
+    errors: [
+      {
+        "type": "field",
+        "value": "https://",
+        "msg": "Invalid value",
+        "path": "value",
+        "location": "body"
+      },
+      {
+        "type": "field",
+        "value": "https://",
+        "msg": "Invalid URL",
+        "path": "value",
+        "location": "body"
+      }
+    ]
+[20:27:00.638] [32mINFO[39m (6960):
+    request: {
+      "value": "https://www.google.com"
+    }
+    response: {
+      "id": 5,
+      "url": "https://www.google.com",
+      "updatedAt": "2024-01-28T13:27:00.627Z",
+      "createdAt": "2024-01-28T13:27:00.627Z"
+    }
+[20:27:03.701] [32mINFO[39m (6960):
+    request: {
+      "value": "https://www.google.com"
+    }
+    response: {
+      "id": 5,
+      "url": "https://www.google.com",
+      "createdAt": "2024-01-28T13:27:00.627Z",
+      "updatedAt": "2024-01-28T13:27:00.627Z"
+    }
+[20:27:07.473] [32mINFO[39m (6960):
+    request: {
+      "value": "https://www.google.com/"
+    }
+    response: {
+      "id": 2,
+      "url": "https://www.google.com/",
+      "createdAt": "2024-01-28T13:04:47.193Z",
+      "updatedAt": "2024-01-28T13:04:47.193Z"
+    }
+[20:28:41.078] [31mERROR[39m (13132):
+    request: {
+      "value": "             https://www.google.com/"
+    }
+    errors: [
+      {
+        "type": "field",
+        "value": "             https://www.google.com/",
+        "msg": "Invalid value",
+        "path": "value",
+        "location": "body"
+      }
+    ]
+[20:29:05.590] [31mERROR[39m (13132):
+    request: {
+      "value": "https://www.google.com/          "
+    }
+    errors: [
+      {
+        "type": "field",
+        "value": "https://www.google.com/          ",
+        "msg": "Invalid value",
+        "path": "value",
+        "location": "body"
+      }
+    ]
+[20:29:10.323] [31mERROR[39m (13132):
+    request: {
+      "value": "https://www.google.com/ "
+    }
+    errors: [
+      {
+        "type": "field",
+        "value": "https://www.google.com/ ",
+        "msg": "Invalid value",
+        "path": "value",
+        "location": "body"
+      }
+    ]
+[20:29:13.536] [32mINFO[39m (13132):
+    request: {
+      "value": "https://www.google.com/"
+    }
+    response: {
+      "id": 2,
+      "url": "https://www.google.com/",
+      "createdAt": "2024-01-28T13:04:47.193Z",
+      "updatedAt": "2024-01-28T13:04:47.193Z"
+    }
+[20:29:24.228] [32mINFO[39m (7264):
+    request: {
+      "value": "https://www.google.com/"
+    }
+    response: {
+      "id": 2,
+      "url": "https://www.google.com/",
+      "createdAt": "2024-01-28T13:04:47.193Z",
+      "updatedAt": "2024-01-28T13:04:47.193Z"
+    }
+[20:29:27.885] [31mERROR[39m (7264):
+    request: {
+      "value": "123"
+    }
+    errors: [
+      {
+        "type": "field",
+        "value": "123",
+        "msg": "Invalid value",
+        "path": "value",
+        "location": "body"
+      },
+      {
+        "type": "field",
+        "value": "123",
+        "msg": "Invalid URL",
+        "path": "value",
+        "location": "body"
+      }
+    ]
+[20:29:34.453] [31mERROR[39m (7264):
+    request: {
+      "value": "123"
+    }
+    errors: [
+      {
+        "type": "field",
+        "value": "123",
+        "msg": "Invalid value",
+        "path": "value",
+        "location": "body"
+      },
+      {
+        "type": "field",
+        "value": "123",
+        "msg": "Invalid URL",
+        "path": "value",
+        "location": "body"
+      }
+    ]
+[20:30:36.622] [31mERROR[39m (7264):
+    request: {
+      "value": "123"
+    }
+    errors: [
+      {
+        "type": "field",
+        "value": "123",
+        "msg": "Invalid value",
+        "path": "value",
+        "location": "body"
+      },
+      {
+        "type": "field",
+        "value": "123",
+        "msg": "Invalid URL",
+        "path": "value",
+        "location": "body"
+      }
+    ]
+[20:31:42.877] [31mERROR[39m (7264):
+    request: {
+      "value": "123"
+    }
+    errors: [
+      {
+        "type": "field",
+        "value": "123",
+        "msg": "Invalid value",
+        "path": "value",
+        "location": "body"
+      },
+      {
+        "type": "field",
+        "value": "123",
+        "msg": "Invalid URL",
+        "path": "value",
+        "location": "body"
+      }
+    ]
+[20:31:51.738] [31mERROR[39m (7264):
+    request: {
+      "value": "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    }
+    errors: [
+      {
+        "type": "field",
+        "value": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+        "msg": "Invalid value",
+        "path": "value",
+        "location": "body"
+      }
+    ]
+[20:32:01.609] [31mERROR[39m (7264):
+    request: {
+      "value": "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    }
+    errors: [
+      {
+        "type": "field",
+        "value": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+        "msg": "Invalid value",
+        "path": "value",
+        "location": "body"
+      }
+    ]
+[20:32:22.698] [32mINFO[39m (4472):
+    request: {
+      "value": "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    }
+    response: {
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+      "updatedAt": "2024-01-28T13:32:22.691Z",
+      "createdAt": "2024-01-28T13:32:22.691Z"
+    }
+[20:32:58.877] [32mINFO[39m (13224):
+    request: {
+      "value": "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    }
+    response: {
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+      "createdAt": "2024-01-28T13:32:22.691Z",
+      "updatedAt": "2024-01-28T13:32:22.691Z"
+    }
+[20:33:00.159] [32mINFO[39m (13224):
+    request: {
+      "value": "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    }
+    response: {
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+      "createdAt": "2024-01-28T13:32:22.691Z",
+      "updatedAt": "2024-01-28T13:32:22.691Z"
+    }
+[20:33:00.602] [32mINFO[39m (13224):
+    request: {
+      "value": "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    }
+    response: {
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+      "createdAt": "2024-01-28T13:32:22.691Z",
+      "updatedAt": "2024-01-28T13:32:22.691Z"
+    }
+[20:33:00.960] [32mINFO[39m (13224):
+    request: {
+      "value": "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    }
+    response: {
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+      "createdAt": "2024-01-28T13:32:22.691Z",
+      "updatedAt": "2024-01-28T13:32:22.691Z"
+    }
+[20:34:04.949] [32mINFO[39m (13224):
+    request: {
+      "value": "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    }
+    response: {
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+      "createdAt": "2024-01-28T13:32:22.691Z",
+      "updatedAt": "2024-01-28T13:32:22.691Z"
+    }
+[20:34:12.277] [32mINFO[39m (13224):
+    request: {
+      "value": "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    }
+    response: {
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+      "createdAt": "2024-01-28T13:32:22.691Z",
+      "updatedAt": "2024-01-28T13:32:22.691Z"
+    }
+[20:34:22.684] [32mINFO[39m (13224):
+    request: {
+      "value": "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    }
+    response: {
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+      "createdAt": "2024-01-28T13:32:22.691Z",
+      "updatedAt": "2024-01-28T13:32:22.691Z"
+    }
+[20:34:36.748] [32mINFO[39m (13224):
+    request: {
+      "value": "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    }
+    response: {
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+      "createdAt": "2024-01-28T13:32:22.691Z",
+      "updatedAt": "2024-01-28T13:32:22.691Z"
+    }
+[20:34:37.267] [32mINFO[39m (13224):
+    request: {
+      "value": "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    }
+    response: {
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+      "createdAt": "2024-01-28T13:32:22.691Z",
+      "updatedAt": "2024-01-28T13:32:22.691Z"
+    }
+[20:38:26.783] [32mINFO[39m (22896):
+    request: {
+      "value": "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    }
+    response: {
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+      "createdAt": "2024-01-28T13:32:22.691Z",
+      "updatedAt": "2024-01-28T13:32:22.691Z"
+    }
+[20:39:28.370] [32mINFO[39m (14540):
+    request: {
+      "value": "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    }
+    response: {
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+      "createdAt": "2024-01-28T13:32:22.691Z",
+      "updatedAt": "2024-01-28T13:32:22.691Z"
+    }
+[20:39:46.530] [32mINFO[39m (19752):
+    req: {
+      "method": "GET",
+      "url": "/6",
+      "query": {},
+      "params": {
+        "id": "6"
+      },
+      "headers": {
+        "host": "localhost:3000",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "accept-language": "en-US,en;q=0.5",
+        "accept-encoding": "gzip, deflate, br",
+        "referer": "http://localhost:3000/",
+        "dnt": "1",
+        "connection": "keep-alive",
+        "upgrade-insecure-requests": "1",
+        "sec-fetch-dest": "document",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "same-origin",
+        "sec-fetch-user": "?1"
+      },
+      "remoteAddress": "::ffff:127.0.0.1",
+      "remotePort": 63333
+    }
+[20:39:54.945] [32mINFO[39m (1292):
+    req: {
+      "method": "GET",
+      "url": "/6",
+      "query": {},
+      "params": {
+        "id": "6"
+      },
+      "headers": {
+        "host": "localhost:3000",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "accept-language": "en-US,en;q=0.5",
+        "accept-encoding": "gzip, deflate, br",
+        "referer": "http://localhost:3000/",
+        "dnt": "1",
+        "connection": "keep-alive",
+        "upgrade-insecure-requests": "1",
+        "sec-fetch-dest": "document",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "same-origin",
+        "sec-fetch-user": "?1"
+      },
+      "remoteAddress": "::ffff:127.0.0.1",
+      "remotePort": 63335
+    }
+[20:39:56.122] [32mINFO[39m (1292):
+    req: {
+      "method": "GET",
+      "url": "/6",
+      "query": {},
+      "params": {
+        "id": "6"
+      },
+      "headers": {
+        "host": "localhost:3000",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "accept-language": "en-US,en;q=0.5",
+        "accept-encoding": "gzip, deflate, br",
+        "referer": "http://localhost:3000/",
+        "dnt": "1",
+        "connection": "keep-alive",
+        "upgrade-insecure-requests": "1",
+        "sec-fetch-dest": "document",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "same-origin",
+        "sec-fetch-user": "?1"
+      },
+      "remoteAddress": "::ffff:127.0.0.1",
+      "remotePort": 63335
+    }
+[20:39:56.553] [32mINFO[39m (1292):
+    req: {
+      "method": "GET",
+      "url": "/6",
+      "query": {},
+      "params": {
+        "id": "6"
+      },
+      "headers": {
+        "host": "localhost:3000",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "accept-language": "en-US,en;q=0.5",
+        "accept-encoding": "gzip, deflate, br",
+        "referer": "http://localhost:3000/",
+        "dnt": "1",
+        "connection": "keep-alive",
+        "upgrade-insecure-requests": "1",
+        "sec-fetch-dest": "document",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "same-origin",
+        "sec-fetch-user": "?1"
+      },
+      "remoteAddress": "::ffff:127.0.0.1",
+      "remotePort": 63335
+    }
+[20:39:56.798] [32mINFO[39m (1292):
+    req: {
+      "method": "GET",
+      "url": "/6",
+      "query": {},
+      "params": {
+        "id": "6"
+      },
+      "headers": {
+        "host": "localhost:3000",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "accept-language": "en-US,en;q=0.5",
+        "accept-encoding": "gzip, deflate, br",
+        "referer": "http://localhost:3000/",
+        "dnt": "1",
+        "connection": "keep-alive",
+        "upgrade-insecure-requests": "1",
+        "sec-fetch-dest": "document",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "same-origin",
+        "sec-fetch-user": "?1"
+      },
+      "remoteAddress": "::ffff:127.0.0.1",
+      "remotePort": 63335
+    }
+[20:40:02.686] [32mINFO[39m (7320):
+    req: {
+      "method": "GET",
+      "url": "/6",
+      "query": {},
+      "params": {
+        "id": "6"
+      },
+      "headers": {
+        "host": "localhost:3000",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "accept-language": "en-US,en;q=0.5",
+        "accept-encoding": "gzip, deflate, br",
+        "referer": "http://localhost:3000/",
+        "dnt": "1",
+        "connection": "keep-alive",
+        "upgrade-insecure-requests": "1",
+        "sec-fetch-dest": "document",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "same-origin",
+        "sec-fetch-user": "?1"
+      },
+      "remoteAddress": "::ffff:127.0.0.1",
+      "remotePort": 63338
+    }
+[20:40:05.393] [32mINFO[39m (7320):
+    req: {
+      "method": "GET",
+      "url": "/1",
+      "query": {},
+      "params": {
+        "id": "1"
+      },
+      "headers": {
+        "host": "localhost:3000",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "accept-language": "en-US,en;q=0.5",
+        "accept-encoding": "gzip, deflate, br",
+        "dnt": "1",
+        "connection": "keep-alive",
+        "upgrade-insecure-requests": "1",
+        "sec-fetch-dest": "document",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "none",
+        "sec-fetch-user": "?1"
+      },
+      "remoteAddress": "::ffff:127.0.0.1",
+      "remotePort": 63338
+    }
+[20:40:07.731] [32mINFO[39m (7320):
+    req: {
+      "method": "GET",
+      "url": "/18",
+      "query": {},
+      "params": {
+        "id": "18"
+      },
+      "headers": {
+        "host": "localhost:3000",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "accept-language": "en-US,en;q=0.5",
+        "accept-encoding": "gzip, deflate, br",
+        "dnt": "1",
+        "connection": "keep-alive",
+        "upgrade-insecure-requests": "1",
+        "sec-fetch-dest": "document",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "none",
+        "sec-fetch-user": "?1"
+      },
+      "remoteAddress": "::ffff:127.0.0.1",
+      "remotePort": 63338
+    }
+[20:43:51.653] [32mINFO[39m (23588):
+    dataValues: {
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+      "createdAt": "2024-01-28T13:32:22.691Z",
+      "updatedAt": "2024-01-28T13:32:22.691Z"
+    }
+    _previousDataValues: {
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+      "createdAt": "2024-01-28T13:32:22.691Z",
+      "updatedAt": "2024-01-28T13:32:22.691Z"
+    }
+    uniqno: 1
+    _changed: {}
+    _options: {
+      "isNewRecord": false,
+      "_schema": null,
+      "_schemaDelimiter": "",
+      "raw": true,
+      "attributes": [
+        "id",
+        "url",
+        "createdAt",
+        "updatedAt"
+      ]
+    }
+    isNewRecord: false
+[20:44:02.261] [32mINFO[39m (23944):
+    id: 6
+    url: "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    createdAt: "2024-01-28T13:32:22.691Z"
+    updatedAt: "2024-01-28T13:32:22.691Z"
+[20:44:14.750] [32mINFO[39m (20768):
+    id: 6
+    url: "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    createdAt: "2024-01-28T13:32:22.691Z"
+    updatedAt: "2024-01-28T13:32:22.691Z"
+[20:44:47.845] [32mINFO[39m (6092):
+    request: {
+      "value": "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    }
+    response: {
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+      "createdAt": "2024-01-28T13:32:22.691Z",
+      "updatedAt": "2024-01-28T13:32:22.691Z"
+    }
+[20:44:48.540] [32mINFO[39m (6092):
+    id: 6
+    url: "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    createdAt: "2024-01-28T13:32:22.691Z"
+    updatedAt: "2024-01-28T13:32:22.691Z"
+[20:45:13.164] [32mINFO[39m (15312):
+    request: {
+      "value": "https://www.youtube.com/watch?v=0s93gfmrD9I"
+    }
+    response: {
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=0s93gfmrD9I",
+      "createdAt": "2024-01-28T13:32:22.691Z",
+      "updatedAt": "2024-01-28T13:32:22.691Z"
+    }
